@@ -13,6 +13,7 @@ gem 'rake'
 gem 'rack-test', '>= 0.5.6'
 gem 'rb-readline'
 gem 'heroku'
+gem 'rack'
 
 group 'assets' do
   gem 'guard'

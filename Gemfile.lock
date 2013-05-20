@@ -83,6 +83,7 @@ DEPENDENCIES
   guard-sass
   haml (>= 3.0)
   heroku
+  rack
   rack-test (>= 0.5.6)
   rake
   rb-readline
